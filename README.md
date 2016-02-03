@@ -1,2 +1,2 @@
-# php-mysql-backup
+# mysql-backup
 MySQL backup script.
